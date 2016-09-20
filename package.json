@@ -1,0 +1,9 @@
+{
+  "name": "twitter-js",
+  "version": "1.0.0",
+  "description": "Learning express with twitter-js",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
